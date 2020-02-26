@@ -4,11 +4,13 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml" >
 <head runat="server">
-    <title>Index</title>
+    <title>Mi Youtube</title>
 </head>
 <body>
     <div>
-        <h1> BIENVENIDO </h1>
+        <h1> Opciones </h1>
+        <hr />
+        <a href="/Video/Index">Ver Video</a>
     </div>
 </body>
 </html>
