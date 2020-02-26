@@ -4,15 +4,11 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml" >
 <head runat="server">
-    <title>Mi Youtube</title>
+    <title>Agregar</title>
 </head>
 <body>
     <div>
-        <h1> Opciones </h1>
-        <hr />
-        <a href="/Video/Index">Ver Video</a>
-        <hr />
-        <a href="/Agregar/Index">Agregar Videos</a>
+        <h1> Agregar Videos</h1>
     </div>
 </body>
 </html>
