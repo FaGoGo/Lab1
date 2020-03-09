@@ -4,6 +4,10 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
+using System.Data;
+using System.Data.SqlClient;
+using MVCPlantilla.Utilerias;
+
 namespace MvcPlantilla.Controllers
 {
     public class VideoController : Controller
@@ -12,30 +16,6 @@ namespace MvcPlantilla.Controllers
         // GET: /Video/
 
         public ActionResult Index()
-        {
-            return View();
-        }
-        public ActionResult create()
-        {
-            return View();
-        }
-        public ActionResult create()
-        {
-            return View();
-        }
-        public ActionResult delete()
-        {
-            return View();
-        }
-        public ActionResult delete()
-        {
-            return View();
-        }
-        public ActionResult edit()
-        {
-            return View();
-        }
-        public ActionResult edit()
         {
             return View();
         }

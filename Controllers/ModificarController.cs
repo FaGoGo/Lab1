@@ -15,6 +15,18 @@ namespace MvcPlantilla.Controllers
         {
             return View();
         }
+        public ActionResult edit()
+        {
+            return View();
+        }
+        [HttpPost]
+        public ActionResult edit(int idVideo,
+                                    string titulo,
+                                    int repro,
+                                    string url)
+        {
+            return View();
+        }
 
     }
 }

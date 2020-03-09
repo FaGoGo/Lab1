@@ -15,6 +15,15 @@ namespace MvcPlantilla.Controllers
         {
             return View();
         }
+        public ActionResult delete()
+        {
+            return View();
+        }
+        [HttpPost]
+        public ActionResult delete(int idVideo)
+        {
+            return View();
+        }
 
     }
 }
