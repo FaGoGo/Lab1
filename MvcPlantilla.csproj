@@ -67,7 +67,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Controllers\AgregarController.cs" />
+    <Compile Include="Controllers\EliminarController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\ModificarController.cs" />
     <Compile Include="Controllers\VideoController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -79,7 +81,9 @@
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
     <Content Include="Views\Agregar\Index.aspx" />
+    <Content Include="Views\Eliminar\Index.aspx" />
     <Content Include="Views\Home\Index.aspx" />
+    <Content Include="Views\Modificar\Index.aspx" />
     <Content Include="Views\Video\Index.aspx" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">

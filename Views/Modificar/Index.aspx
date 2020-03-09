@@ -4,13 +4,11 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml" >
 <head runat="server">
-    <title>Videos</title>
+    <title>Index</title>
 </head>
 <body>
     <div>
-        <h1>Ver Videos</h1>
-        <hr />
-         <a href="/Home/Index">Volver</a>
+    
     </div>
 </body>
 </html>

@@ -15,6 +15,30 @@ namespace MvcPlantilla.Controllers
         {
             return View();
         }
+        public ActionResult create()
+        {
+            return View();
+        }
+        public ActionResult create()
+        {
+            return View();
+        }
+        public ActionResult delete()
+        {
+            return View();
+        }
+        public ActionResult delete()
+        {
+            return View();
+        }
+        public ActionResult edit()
+        {
+            return View();
+        }
+        public ActionResult edit()
+        {
+            return View();
+        }
 
     }
 }
