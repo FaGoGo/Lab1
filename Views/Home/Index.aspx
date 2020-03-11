@@ -12,11 +12,11 @@
         <hr />
         <a href="/Video/Index">Ver Video</a>
         <hr />
-        <a href="/Agregar/create">Agregar Videos</a>
+        <a href="/Video/create">Agregar Videos</a>
         <hr />
-        <a href="/Eliminar/delete">Eliminar Video</a>
+        <a href="/Video/delete">Eliminar Video</a>
         <hr />
-        <a href="/Modificar/edit">Modificar Videos</a>
+        <a href="/Video/edit">Modificar Videos</a>
     </div>
 </body>
 </html>
